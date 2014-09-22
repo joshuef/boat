@@ -1,8 +1,8 @@
 staging:
   host: localhost
-  database: db_name
-  username: db_user
-  password: 'db_pass'
+  database: boat
+  username: root
+  password: 'bugger'
 production:
   host: localhost
   database: db_name
